@@ -1,6 +1,4 @@
-Here’s the complete `README.md` content in **Markdown format** for your project after renaming the script to `Compare.py`. You can copy and paste this directly into your `README.md` file.
 
----
 
 ```markdown
 # PDF Comparison Tool
@@ -141,11 +139,3 @@ Feel free to contribute to this project by submitting pull requests or opening i
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
----
-
-### **How to Use This README.md**
-1. Copy the content above.
-2. Create a new file named `README.md` in your project directory.
-3. Paste the content into the `README.md` file.
-4. Save the file and upload it to your GitHub repository.
