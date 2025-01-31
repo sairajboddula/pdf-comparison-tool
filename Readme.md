@@ -1,21 +1,36 @@
 
+---
+
+
 # PDF Comparison Tool
 
 This Python script compares PDF files from two directories and generates an Excel report highlighting differences. It also checks for empty PDF files and generates checksums for file integrity.
 
+## Table of Contents
+- [Pre-requisites](#pre-requisites)
+- [How to Run the Code](#how-to-run-the-code)
+- [Configuration](#configuration)
+- [Example Directory Structure](#example-directory-structure)
+- [Output](#output)
+- [Pros & Cons](#pros--cons)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
 ## Pre-requisites
 
-- **Python 3.x**: The script is written in Python, so you need Python installed. You can download it from [python.org](https://www.python.org/).
-- **Required Python Libraries**:
-  - `openpyxl`: For working with Excel files.
-  - `pypdf`: For reading and extracting text from PDF files.
-  - `hashlib`: For generating checksums (included in Python's standard library).
-  - `filecmp`: For comparing files (included in Python's standard library).
-  - `json`: For reading the `ignore.json` configuration file (included in Python's standard library).
+Before running the code, ensure that the following are installed on your system:
 
-Install the required libraries using pip:
-```bash
-pip install openpyxl pypdf
+1. **Python 3.x**: The script is written in Python, so you need Python installed. You can download it from [python.org](https://www.python.org/).
+2. **Required Python Libraries**:
+   - `openpyxl`: For working with Excel files.
+   - `pypdf`: For reading and extracting text from PDF files.
+
+   Install the required libraries using pip:
+   ```bash
+   pip install openpyxl pypdf
+   ```
 
 ---
 
