@@ -17,6 +17,8 @@ Install the required libraries using pip:
 ```bash
 pip install openpyxl pypdf
 
+---
+
 ## How to Run the Code
 
 1. **Prepare Your Directories**:
