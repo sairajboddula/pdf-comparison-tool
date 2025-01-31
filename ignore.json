@@ -1,0 +1,36 @@
+{
+	"xml": [
+		"customerPlan2/AgreementNumber/@id"
+	],
+	"txt": [
+		"module-option"
+	],
+	"csv": [
+		"Age",
+		"Year"
+	],
+	"xlsx": [],
+	"xls": [
+		"header",
+		"version"
+	],
+	"1000 nodes xml.xml": [
+		"versionTradeId/tradeId/#text"
+	],
+	"output1.xml": [
+		"header/messageId/@messageIdScheme",
+		"trade/tradeHeader/tradeDate"
+	],
+	"login-config.xml": [
+		"module-option"
+	],
+	"pdf_py": {
+        "coordinates": {
+            "x_min": 50,
+            "x_max": 790,
+            "y_min": 50,
+            "y_max": 790
+        }
+    }
+}
+
