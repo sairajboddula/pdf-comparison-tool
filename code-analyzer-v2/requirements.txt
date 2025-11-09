@@ -1,0 +1,30 @@
+# Core Dependencies - COMPLETE VERSION
+graphviz==0.20.1
+pydot==2.0.0
+networkx==3.2.1
+matplotlib==3.8.2
+imageio==2.33.1
+imageio[ffmpeg]==2.33.1
+Pillow==10.2.0
+
+# Code Analysis
+astor==0.8.1
+
+# Documentation
+Sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+
+# CLI
+argparse>=1.4.0
+
+# AI/ML (Optional)
+transformers==4.36.2
+torch==2.1.2
+
+# Utilities
+PyYAML==6.0.1
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
